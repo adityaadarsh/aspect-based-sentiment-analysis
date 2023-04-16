@@ -1,7 +1,7 @@
 
 # Aspect Based Sentiment Analysis using Embeddings
 
-### Blog Post [Article link](https://linktodocumentation)
+### Blog Post [Article link](https://adityaadarsh.hashnode.dev/summarize-product-reviews-on-large-scale-data)
 
 ---
 
