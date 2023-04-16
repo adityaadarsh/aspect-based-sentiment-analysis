@@ -2,7 +2,7 @@
 # Aspect Based Sentiment Analysis using Embeddings
 
 ### Blog Post [Article link](https://adityaadarsh.hashnode.dev/summarize-product-reviews-on-large-scale-data)
-### Data Studio Report Demo[(https://lookerstudio.google.com/u/0/reporting/18a4a89f-da16-411e-8d02-141a8f705d26)]
+### Data Studio Report [Demo](https://lookerstudio.google.com/u/0/reporting/18a4a89f-da16-411e-8d02-141a8f705d26)
 
 ---
 
